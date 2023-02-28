@@ -1,2 +1,2 @@
-# Financial-Fraud-Prediction-Using-machine-learning-algorithm
-This project aim to identify financial fraud with machine learning, 
+# Financial-Fraud-Prediction-Using-machine-learning-algorithm 
+This project aim to identify financial fraud with machine learning, we need to train a machine learning model for classifying fraudulent and non-fraudulent transaction. For this project , I need a dataset containing information about financial fraud, so that we can understand what type of transactions lead to fraud. For this task, I collected a dataset from Kaggle, which contains historical information about fraudulent transactions which can be used to detect financial fraud.
